@@ -6,3 +6,8 @@
 
 ��2 Scene
 -14.74  1.67 59.44
+
+
+transform.position == new Vector3(0.8f, 2.0f, 60) ||
+transform.position == new Vector3(0.5f, 2.0f, 60) ||
+transform.position == new Vector3(0.8f, 2.0f, 60) ||
