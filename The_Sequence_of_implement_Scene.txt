@@ -11,3 +11,7 @@
 transform.position == new Vector3(0.8f, 2.0f, 60) ||
 transform.position == new Vector3(0.5f, 2.0f, 60) ||
 transform.position == new Vector3(0.8f, 2.0f, 60) ||
+
+제3 Scene
+// 82.9f, 0.6f, 45.6f
+    // 52.6f, 0.6f, 45.6f
